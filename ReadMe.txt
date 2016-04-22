@@ -6,3 +6,4 @@ My stupid boss still prefers SVN
 add into origination
 I am Guo kexin
 I am Guo kexin 02
+I am Guo Laoshi
